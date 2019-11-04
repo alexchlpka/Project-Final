@@ -2,12 +2,12 @@
 
 Contributors: 
 
-1)Alex Chlpka 
+1)Alex Chlpka, Email: arc177@pitt.edu 
 2)
 
 Team Name:
 
-Team Zero
+1)Team Zero
 
 Metrics for the "Best" Neighborhood:
 
