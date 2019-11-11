@@ -1,9 +1,11 @@
 # Project-Final
 
-Contributors: 
+Contributors:
 
-1)Alex Chlpka, Email: arc177@pitt.edu 
-2)
+1)Alex Chlpka arc177@pitt.edu
+2)Colin Woelfel cjw102@pitt.edu
+=======
+
 
 Team Name:
 
