@@ -4,6 +4,7 @@ Contributors:
 
 1)Alex Chlpka arc177@pitt.edu
 2)Colin Woelfel cjw102@pitt.edu
+3)Cameron Gearhart cwg21@pitt.edu
 
 Team Name:
 
